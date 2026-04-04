@@ -9,7 +9,7 @@ function decode(text) {
         return text;
 }
 
-const gradient = defaultRequire("gradient-string");
+const gradient = defaultRequire("gradient-string").default;
 const axios = defaultRequire("axios");
 const path = defaultRequire("path");
 const readline = defaultRequire("readline");
