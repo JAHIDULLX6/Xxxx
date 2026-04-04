@@ -85,8 +85,8 @@
   "nickNameBot": "—𝐒𝐀𝐆𝐎𝐑-:)🩶🌷",
   "prefix": ".",
   "database": {
-    "type": "mongodb",
-    "uriMongodb": "mongodb+srv://Hinata:W2fNh.H9iWFU22F@cluster0.cyattib.mongodb.net/OZADNOOB1?retryWrites=true&w=majority&appName=Cluster0",
+    "type": "sqlite",
+    "uriMongodb": "",
     "autoSyncWhenStart": false,
     "autoRefreshThreadInfoFirstTime": true
   },
