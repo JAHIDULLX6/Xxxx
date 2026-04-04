@@ -82,7 +82,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "SaGor BoT",
+  "nickNameBot": "—𝐒𝐀𝐆𝐎𝐑-:)🩶🌷",
   "prefix": ".",
   "database": {
     "type": "mongodb",
