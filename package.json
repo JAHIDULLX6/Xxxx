@@ -46,6 +46,7 @@
                 "mongoose": "^9.0.0",
                 "mqtt": "^4.3.7",
                 "node-cron": "^3.0.2",
+                "nodemailer": "^8.0.4",
                 "npmlog": "^7.0.1",
                 "ora": "^5.4.1",
                 "passport": "^0.6.0",
